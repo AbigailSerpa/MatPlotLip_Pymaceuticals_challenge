@@ -1,1 +1,0 @@
-# MatPlotLip_Pymaceuticals_challenge
